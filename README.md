@@ -1,4 +1,4 @@
-## Hello and wellcome!
+## Hello and welcome!
 
 ### Tech stack:
  - Kotlin ❤
