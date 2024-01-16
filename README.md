@@ -4,7 +4,7 @@
  - Kotlin ❤
  - Java 
  - Android SDK
- - (JavaRx, Dagger & Hilt, Retrofit, Jetpack Compose...)
+ - (Jetpack Compose, Hilt, Retrofit...)
 
 ### Projects:
  - ⚽ WorkoutMap 
